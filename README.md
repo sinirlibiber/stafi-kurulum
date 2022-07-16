@@ -1,10 +1,10 @@
 # stafi-kurulum
 stafi
 
-sudo su
+<sudo su
 cd /root
 sudo apt update && sudo apt upgrade -y
-sudo apt install make clang pkg-config libssl-dev build-essential git jq ncdu bsdmainutils -y < "/dev/null"
+sudo apt install make clang pkg-config libssl-dev build-essential git jq ncdu bsdmainutils -y < "/dev/null">
 
 cd $HOME
 wget -O go1.18.2.linux-amd64.tar.gz https://go.dev/dl/go1.18.2.linux-amd64.tar.gz
