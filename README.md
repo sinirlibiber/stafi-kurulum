@@ -1,0 +1,2 @@
+# stafi-kurulum
+stafi
